@@ -1,4 +1,4 @@
-isim = "Moby Dick"
+isim = "BATUHAN BOZKURT"
 sayfa = 195
 agirlik = 13.47
 yeni_mi = True
